@@ -1,0 +1,8 @@
+//Search query example from Part 3 of the Must Learn KQL blog series.
+
+SecurityEvent 
+| where TimeGenerated  > ago (1h)
+| where EventID == 4624
+| summarize count() by Account
+| order by Account asc 
+| project Account , SuccessfulLogons = count_ 
