@@ -1,4 +1,4 @@
-# MustLearnKQL
+# Must Learn KQL - the Blog series
 Code and queries included as part of the MustLearnKQL blog series
 <br><br>
 * <a href="https://cda.ms/3fC" target="_blank">Must Learn KQL Part 1: Tools and Resources</a><br>
