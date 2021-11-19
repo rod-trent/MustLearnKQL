@@ -1,6 +1,6 @@
 # MustLearnKQL
 Code and queries included as part of the MustLearnKQL blog series
 <br><br>
-* Must Learn KQL Part 1: Tools and Resources<br>
-* Must Learn KQL Part 2: Just Above Sea Level<br>
-* Must Learn KQL Part 3: Workflow - this post<br>
+* <a href="https://cda.ms/3fC" target="_blank">Must Learn KQL Part 1: Tools and Resources</a><br>
+* <a href="https://cda.ms/3fD" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a><br>
+* Must Learn KQL Part 3: Workflow</a><br>
