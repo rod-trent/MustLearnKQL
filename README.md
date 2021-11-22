@@ -11,3 +11,6 @@ The following are links to the entire series so far:
 * Must Learn KQL Part 6: Interface Intimacy (deep dive into the Logs interface) - <i>due to the week of November 29th, 2021</i><br>
 * Must Learn KQL Part 7: Repeatable Repercussion (building your first Microsoft Sentinel Analytics Rule) - <i>due to the week of November 29th, 2021</i><br>
 * <i>Still building what's next</i> 
+
+<br><br>
+<img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmall.png" alt="Must Learn KQL">
