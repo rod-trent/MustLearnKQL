@@ -9,3 +9,6 @@ search "rodtrent"
 
 //Search specific table
 search in (OfficeActivity) "rodtrent"
+
+//Search with wildcard
+search in (Device*) "rodtrent"
