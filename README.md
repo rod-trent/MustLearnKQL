@@ -6,4 +6,4 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3fC" target="_blank">Must Learn KQL Part 1: Tools and Resources</a><br>
 * <a href="https://cda.ms/3fD" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a><br>
 * <a href="https://cda.ms/3fQ" target="_blank">Must Learn KQL Part 3: Workflow</a><br>
-* Must Learn KQL Part 4: Search for Fun and Profit<br>
+* Must Learn KQL Part 4: Search for Fun and Profit - <i>pending</i><br>
