@@ -1,0 +1,8 @@
+//
+
+OfficeActivity
+| where TimeGenerated > ago(24h)
+| where UserId has "rodtrent"
+| where RecordType == "ExchangeItem"
+| where Operation == "Send"
+| project UserId, ClientIP, OriginatingServer 
