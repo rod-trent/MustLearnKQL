@@ -14,4 +14,4 @@ The following are links to the entire series so far:
 * <i>Still building what's next</i> 
 
 <br><br>
-<center><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmall.png" alt="Must Learn KQL"></center>
+<p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmall.png" alt="Must Learn KQL"></center></p>
