@@ -1,3 +1,4 @@
+<center><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmallSmall.png" alt="Must Learn KQL"></center>
 # Must Learn KQL - the Blog series
 This repostiory contains the code and queries included as part of the MustLearnKQL blog series. The series is a continuing effort to discuss and educate about the power and simplicity of the Kusto Query Language.
 <br><br>
