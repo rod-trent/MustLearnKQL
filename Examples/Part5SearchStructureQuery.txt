@@ -1,4 +1,4 @@
-//
+//From Part 5, filtering for precise results
 
 OfficeActivity
 | where TimeGenerated > ago(24h)
