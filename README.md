@@ -13,5 +13,7 @@ The following are links to the entire series so far:
 * Must Learn KQL Part 7: Repeatable Repercussion (building your first Microsoft Sentinel Analytics Rule) - <i>due the week of December 6th, 2021</i><br>
 * <i>Still building what's next</i> 
 
+To return back here, just remember the easy link:  https://aka.ms/MustLearnKQL
+
 <br><br>
 <p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmall.png" alt="Must Learn KQL"></center></p>
