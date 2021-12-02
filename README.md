@@ -12,7 +12,7 @@ The following are links to the entire series so far:
 * Must Learn KQL Part 6: Interface Intimacy (deep dive into the Logs interface) - <i>due the week of November 29th, 2021</i><br>
 * Must Learn KQL Part 7: Schema Talk<br>
 * Must Learn KQL Part 8: Where Operator<br>
-* Must Learn KQL Part 9: Where Limit/Take with Data Sampling Tips<br>
+* Must Learn KQL Part 9: Limit/Take Operators with Data Sampling Tips<br>
 * Must Learn KQL Part 10: Count Operator<br>
 * Must Learn KQL Part 11: Summarize Operator<br>
 * Must Learn KQL Part 12: Render Operator<br>
