@@ -1,0 +1,4 @@
+//Query example from Part 6 of the Must Learn KQL blog series.
+
+SecurityEvent
+| where EventID == 4624
