@@ -1,0 +1,6 @@
+//Query talking about charts from Part 6 of the Must Learn KQL series.
+
+Event
+| where EventLevelName == "Error"
+| where TimeGenerated > ago(30d)
+| summarize count() by Computer
