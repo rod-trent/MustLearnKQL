@@ -10,8 +10,21 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3gH" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a><br>
 * <a href="https://cda.ms/3jm" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a><br>
 * Must Learn KQL Part 6: Interface Intimacy (deep dive into the Logs interface) - <i>due the week of November 29th, 2021</i><br>
-* Must Learn KQL Part 7: Repeatable Repercussion (building your first Microsoft Sentinel Analytics Rule) - <i>due the week of December 6th, 2021</i><br>
-* <i>Still building what's next</i> 
+* Must Learn KQL Part 7: Schema
+* Must Learn KQL Part 8: Where Operator
+* Must Learn KQL Part 9: Where Limit/Take with Data Sampling Tips
+* Must Learn KQL Part 10: Count Operator
+* Must Learn KQL Part 11: Summarize Operator
+* Must Learn KQL Part 12: Render Operator
+* Must Learn KQL Part 13: Bin Operator
+* Must Learn KQL Part 14: Extend Operator
+* Must Learn KQL Part 15: Project Operator
+* Must Learn KQL Part 16: Distinct Operator
+* Must Learn KQL Part 17: Order/Sort and Top Operators
+* Must Learn KQL Part 18: The Let Statement
+* Must Learn KQL Part 19: Union Operator
+* Must Learn KQL Part 20: Join Operator
+* Must Learn KQL Part 21: Repeatable Repercussion (building your first Microsoft Sentinel Analytics Rule) 
 <br><br>
 To return back here, just remember the easy link:  https://aka.ms/MustLearnKQL
 
