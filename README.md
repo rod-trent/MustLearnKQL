@@ -4,12 +4,12 @@ This repostiory contains the code and queries included as part of the MustLearnK
 <br><br>
 The following are links to the entire series so far:
 <br><br>
-* <a href="https://cda.ms/3fC" target="_blank">Must Learn KQL Part 1: Tools and Resources</a><br>
-* <a href="https://cda.ms/3fD" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a><br>
-* <a href="https://cda.ms/3fQ" target="_blank">Must Learn KQL Part 3: Workflow</a><br>
-* <a href="https://cda.ms/3gH" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a><br>
-* <a href="https://cda.ms/3jm" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a><br>
-* <a href="https://cda.ms/3mc" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> <i>Posted December 2, 2012</i><br>
+* <a href="https://cda.ms/3fC" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> <i>Posted November 17, 2021</i><br>
+* <a href="https://cda.ms/3fD" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> <i>Posted November 18, 2021</i><br>
+* <a href="https://cda.ms/3fQ" target="_blank">Must Learn KQL Part 3: Workflow</a> <i>Posted November 19, 2021</i><br>
+* <a href="https://cda.ms/3gH" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> <i>Posted November 22, 2021</i><br>
+* <a href="https://cda.ms/3jm" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a> <i>Posted November 29, 2021</i><br>
+* <a href="https://cda.ms/3mc" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> <i>Posted December 2, 2021</i><br>
 * Must Learn KQL Part 7: Schema Talk<br>
 * Must Learn KQL Part 8: Where Operator<br>
 * Must Learn KQL Part 9: Limit/Take Operators with Data Sampling Tips<br>
