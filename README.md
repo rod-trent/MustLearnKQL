@@ -2,6 +2,7 @@
 # Must Learn KQL - the Blog series
 This repostiory contains the code and queries included as part of the MustLearnKQL blog series. The series is a continuing effort to discuss and educate about the power and simplicity of the Kusto Query Language.
 <br><br>
+#TOC
 The following are links to the entire series so far:
 <br><br>
 * <a href="https://cda.ms/3fC" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> <i>Posted November 17, 2021</i><br>
