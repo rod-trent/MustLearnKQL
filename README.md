@@ -27,7 +27,7 @@ The following are links to the entire series so far:
 * Must Learn KQL Part 20: Join Operator<br>
 * Must Learn KQL Part 21: Repeatable Repercussion (building your first Microsoft Sentinel Analytics Rule) 
 <br><br>
-To return back here, just remember the easy link:  https://aka.ms/MustLearnKQL
+The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 
 <br><br>
 <p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmall.png" alt="Must Learn KQL"></center></p>
