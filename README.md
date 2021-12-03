@@ -1,6 +1,6 @@
 # Must Learn KQL - the series<br>
 <p align="right"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmallSmall.png" alt="Must Learn KQL"></center></p>
-This repostiory contains the code and queries included as part of the MustLearnKQL blog series. The series is a continuing effort to discuss and educate about the power and simplicity of the Kusto Query Language.<br>
+This repostiory contains the code and queries included as part of the MustLearnKQL blog series. The series is a continuing effort to discuss and educate about the power and simplicity of the Kusto Query Language.<br><br>
 There's now a book version! The book (PDF) will be updated whenever changes are made or new parts of the series are released. Get the book: https://cda.ms/3mT
 <br><br>
 <b><h2>Table of Contents</h2></b>
