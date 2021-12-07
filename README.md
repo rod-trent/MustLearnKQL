@@ -13,7 +13,6 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3jm" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a> <i>Posted November 29, 2021</i><br>
 * <a href="https://cda.ms/3mc" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> <i>Posted December 2, 2021</i><br>
 * <a href="https://cda.ms/3pm" target="_blank">Must Learn KQL Part 7: Schema Talk</a> <i>Posted December 7, 2021</i><br>
-* Must Learn KQL Part 7: Schema Talk<br>
 * Must Learn KQL Part 8: Where Operator<br>
 * Must Learn KQL Part 9: Limit/Take Operators with Data Sampling Tips<br>
 * Must Learn KQL Part 10: Count Operator<br>
