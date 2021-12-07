@@ -1,0 +1,7 @@
+//Part 7 OfficeActivity sample
+
+OfficeActivity
+| where UserType == "Regular"
+| where OfficeWorkload == "Exchange" 
+| where Operation == "Send"
+| project UserId, UserDomain
