@@ -27,7 +27,8 @@ The following are links to the entire series so far:
 * Must Learn KQL Part 19: Union Operator<br>
 * Must Learn KQL Part 20: Join Operator<br>
 * Must Learn KQL Part 21: Parsing Unruly Data<br>
-* Must Learn KQL Part 22: Repeatable Repercussion (building your first Microsoft Sentinel Analytics Rule) 
+* Must Learn KQL Part 22: Building your first Microsoft Sentinel Analytics Rule<br>
+* Must Learn KQL Part 23: Repeatable Repercussion (Functions)
 <br><br>
 The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 
