@@ -1,0 +1,6 @@
+//Part 8 query with case insensitivity
+
+SecurityEvent // The table
+| where TimeGenerated > ago(1h) // Activity in the last hour
+| where EventID == 4624 // Successful logon
+| where AccountType =~ "user" // case insensitive
