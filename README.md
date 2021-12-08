@@ -15,7 +15,7 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3pm" target="_blank">Must Learn KQL Part 7: Schema Talk</a> <i>Posted December 7, 2021</i><br>
 * <a href="https://cda.ms/3qj" target="_blank">Must Learn KQL Part 8: The Where Operator</a> <i>Posted December 8, 2021</i><br>
 * Must Learn KQL Part 9: Limit/Take Operators with Data Sampling Tips - <i>due the week of December 13, 2021</i><br>
-* Must Learn KQL Part 10: Count Operator<br>
+* Must Learn KQL Part 10: Count Operator - <i>due the 1st week of January 2022</i><br>
 * Must Learn KQL Part 11: Summarize Operator<br>
 * Must Learn KQL Part 12: Render Operator<br>
 * Must Learn KQL Part 13: Bin Operator<br>
