@@ -1,0 +1,15 @@
+//From Part 8 of the Must Learn KQL series. Examples for limit and take operators.
+
+SecurityEvent // The table
+| where TimeGenerated > ago(1h) // Activity in the last hour
+| where EventID == 4624 // Successful logon
+| where AccountType =~ "user" // case insensitive
+| limit 10 //random data sample or 10 records
+
+-or-
+
+SecurityEvent // The table
+| where TimeGenerated > ago(1h) // Activity in the last hour
+| where EventID == 4624 // Successful logon
+| where AccountType =~ "user" // case insensitive
+| take 10 //random data sample or 10 records
