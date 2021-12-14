@@ -14,18 +14,18 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3mc" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> <i>Posted December 2, 2021, Updated December 8, 2021</i><br>
 * <a href="https://cda.ms/3pm" target="_blank">Must Learn KQL Part 7: Schema Talk</a> <i>Posted December 7, 2021</i><br>
 * <a href="https://cda.ms/3qj" target="_blank">Must Learn KQL Part 8: The Where Operator</a> <i>Posted December 8, 2021</i><br>
-* <a href="https://cda.ms/3s7" target="_blank">Must Learn KQL Part 9: Limit/Take Operators</a> <i>Posted December 13, 2021</i><br>
-* Must Learn KQL Part 10: Count Operator - <i>due the week of December, 13 2021</i><br>
-* Must Learn KQL Part 11: Summarize Operator - <i>due the week of January 3, 2022</i><br>
-* Must Learn KQL Part 12: Render Operator<br>
-* Must Learn KQL Part 13: Bin Operator<br>
-* Must Learn KQL Part 14: Extend Operator<br>
-* Must Learn KQL Part 15: Project Operator<br>
-* Must Learn KQL Part 16: Distinct Operator<br>
-* Must Learn KQL Part 17: Order/Sort and Top Operators<br>
+* <a href="https://cda.ms/3s7" target="_blank">Must Learn KQL Part 9: The Limit/Take Operators</a> <i>Posted December 13, 2021</i><br>
+* Must Learn KQL Part 10: The Count Operator - <i>due the week of December, 13 2021</i><br>
+* Must Learn KQL Part 11: The Summarize Operator - <i>due the week of January 3, 2022</i><br>
+* Must Learn KQL Part 12: The Render Operator<br>
+* Must Learn KQL Part 13: The Bin Operator<br>
+* Must Learn KQL Part 14: The Extend Operator<br>
+* Must Learn KQL Part 15: The Project Operator<br>
+* Must Learn KQL Part 16: The Distinct Operator<br>
+* Must Learn KQL Part 17: The Order/Sort and Top Operators<br>
 * Must Learn KQL Part 18: The Let Statement<br>
-* Must Learn KQL Part 19: Union Operator<br>
-* Must Learn KQL Part 20: Join Operator<br>
+* Must Learn KQL Part 19: The Union Operator<br>
+* Must Learn KQL Part 20: The Join Operator<br>
 * Must Learn KQL Part 21: Parsing Unruly Data<br>
 * Must Learn KQL Part 22: Building your first Microsoft Sentinel Analytics Rule<br>
 * Must Learn KQL Part 23: Repeatable Repercussion (Functions)
