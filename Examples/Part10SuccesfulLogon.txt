@@ -1,0 +1,7 @@
+//From part 10 of the Must Learn KQL series showing the count of successful logons
+
+SecurityEvent // The table
+| where TimeGenerated > ago(1h) // Activity in the last hour
+| where EventID == 4624 // Successful logon
+| where AccountType =~ "user" // case insensitive
+| count // Number of successful logons
