@@ -35,4 +35,4 @@ The following are links to the entire series so far:
 The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 
 <br><br>
-<p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmall.png" alt="Must Learn KQL"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerMissionSmall.png" alt="Must Learn KQL"></center></p>
