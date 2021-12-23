@@ -5,6 +5,11 @@ The eBook (PDF) is updated whenever changes are made or new parts of the series 
 <br><br>
 Love the series so much you want a coffee mug? There's now a <b>merch store</b> where all proceeds go to <a href="https://cda.ms/3vg" target="_blank">St. Jude Children's Research Hospital.</a> Check it out! <b><a href="https://cda.ms/3vg" target="_blank">MUST LEARN KQL STORE</a></b>
 <br><br>
+The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
+
+<br><br>
+<p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerMissionSmall.png" alt="Must Learn KQL"></center></p>
+<br><br>
 <b><h2>Table of Contents</h2></b>
 The following are links to the entire series so far:
 <br><br>
