@@ -34,7 +34,4 @@ The following are links to the entire series so far:
 * Must Learn KQL Part 22: Building your first Microsoft Sentinel Analytics Rule<br>
 * Must Learn KQL Part 23: Repeatable Repercussion (Functions)
 <br><br>
-The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
-
-<br><br>
 <p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerMissionSmall.png" alt="Must Learn KQL"></center></p>
