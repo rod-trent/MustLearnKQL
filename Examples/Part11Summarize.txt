@@ -1,6 +1,6 @@
 //From Must Learn KQL Part 11 explaining the Summarize operator.
 
-SecurityEvent
-| where TimeGenerated > ago(1h)
-| where EventID == 4624
-| summarize count() by AccountType, Computer
+SecurityEvent // The table
+| where TimeGenerated > ago(1h) // Activity in the last hour
+| where EventID == 4624 // Successful logon
+| summarize count() by AccountType, Computer //Show the number of successful logons per computer and what type of account is being used
