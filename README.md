@@ -21,17 +21,16 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3s7" target="_blank">Must Learn KQL Part 9: The Limit/Take Operators</a> <i>Posted December 13, 2021</i><br>
 * <a href="https://cda.ms/3sM" target="_blank">Must Learn KQL Part 10: The Count Operator</a> <i>Posted December 14, 2021</i><br>
 * Must Learn KQL Part 11: The Summarize Operator - <i>due the week of January 3, 2022</i><br>
-* Must Learn KQL Part 12: The Render Operator<br>
-* Must Learn KQL Part 13: The Bin Operator<br>
-* Must Learn KQL Part 14: The Extend Operator<br>
-* Must Learn KQL Part 15: The Project Operator<br>
-* Must Learn KQL Part 16: The Distinct Operator<br>
-* Must Learn KQL Part 17: The Order/Sort and Top Operators<br>
-* Must Learn KQL Part 18: The Let Statement<br>
-* Must Learn KQL Part 19: The Union Operator<br>
-* Must Learn KQL Part 20: The Join Operator<br>
-* Must Learn KQL Part 21: Parsing Unruly Data<br>
-* Must Learn KQL Part 22: Building your first Microsoft Sentinel Analytics Rule<br>
-* Must Learn KQL Part 23: Repeatable Repercussion (Functions)
+* Must Learn KQL Part 12: The Render Operator (with Bin and Time)<br>
+* Must Learn KQL Part 13: The Extend Operator<br>
+* Must Learn KQL Part 14: The Project Operator<br>
+* Must Learn KQL Part 15: The Distinct Operator<br>
+* Must Learn KQL Part 16: The Order/Sort and Top Operators<br>
+* Must Learn KQL Part 17: The Let Statement<br>
+* Must Learn KQL Part 18: The Union Operator<br>
+* Must Learn KQL Part 19: The Join Operator<br>
+* Must Learn KQL Part 20: Parsing Unruly Data<br>
+* Must Learn KQL Part 21: Building your first Microsoft Sentinel Analytics Rule<br>
+* Must Learn KQL Part 22: Repeatable Repercussion (Functions)
 <br><br>
 <p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerMissionSmall.png" alt="Must Learn KQL"></center></p>
