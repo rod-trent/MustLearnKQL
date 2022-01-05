@@ -1,0 +1,6 @@
+//From Must Learn KQL Part 11 explaining the Summarize operator.
+
+SecurityEvent
+| where TimeGenerated > ago(1h)
+| where EventID == 4624
+| summarize count() by AccountType, Computer
