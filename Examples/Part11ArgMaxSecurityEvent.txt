@@ -1,0 +1,5 @@
+//From Part 11 in the Must Learn KQL series showing Advanced aggregates
+
+SecurityEvent
+| where EventID == 4624
+| summarize arg_max(TimeGenerated, *) by Account 
