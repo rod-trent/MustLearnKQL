@@ -1,0 +1,6 @@
+//From Part 12 of the Must Learn KQL series - IP address activity
+
+VMConnection //Tablename
+| summarize count() by SourceIp //Summarizing found IP addresses
+| sort by count_ desc //Sorting the list in descending order
+| render barchart //Showing the data in a barchart to show activity
