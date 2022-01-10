@@ -2,5 +2,5 @@
 
 Usage //Tablename
 | summarize count_per_type=count() by DataType //Creating the numeric value (summary) for types of data
-| sort by count_per_type desc //Sorted by descended order
+| sort by count_per_type desc //Sorted by descending order
 | render piechart //Display the data in a piechart
