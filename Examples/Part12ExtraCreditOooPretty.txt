@@ -1,0 +1,6 @@
+//From Part 12 of the Must Learn KQL series - showing table usage by data type
+
+Usage //Tablename
+| summarize count_per_type=count() by DataType //Creating the numeric value (summary) for types of data
+| sort by count_per_type desc //Sorted by descended order
+| render piechart //Display the data in a piechart
