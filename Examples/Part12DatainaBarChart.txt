@@ -1,0 +1,6 @@
+//From Part 12 of the Must Learn KQL series - Barchart
+
+SecurityEvent //The table
+| where TimeGenerated > ago(7d) //Looking at data in the last 7 days
+| summarize count() by bin(TimeGenerated, 1d) //Using Bin to group the data by each day
+| render barchart //Looking at the data in a Barchart
