@@ -4,3 +4,4 @@ Perf //Tablename
 | where CounterName == "Free Megabytes" //Looking for free megabytes
 | where InstanceName matches regex "^[A-Z]:$" //Looking for regular expressions for drive letters
 | summarize min(CounterValue) by bin(TimeGenerated, 1d) //Grouping the data by each drive letter found
+| render columnchart
