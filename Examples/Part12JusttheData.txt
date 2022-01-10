@@ -1,0 +1,5 @@
+//From Part 12 of the Must Learn KQL series - Using bin
+
+SecurityEvent 
+| where TimeGenerated > ago(7d)
+| summarize count() by bin(TimeGenerated, 1d)
