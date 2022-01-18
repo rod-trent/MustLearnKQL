@@ -1,4 +1,4 @@
-//Part13 from the Must Learn KQL series on Extend. 
+//Part13 from the Must Learn KQL series on Extend.  Data by agented computer, split by billable, non-billable, and total
 
 find where TimeGenerated > ago(1d) project _BilledSize, _IsBillable, Computer, _ResourceId
 | where _isBillable=true and isnotempty(Computer) 
