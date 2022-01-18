@@ -1,0 +1,5 @@
+//From Part 13 of the Must Learn KQL series on using Extend. Just making data up...
+
+SecurityEvent
+| extend My_Calculation = 8*8
+| extend My_Fabricated_Data = "Yay for me!"
