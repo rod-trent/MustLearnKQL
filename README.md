@@ -3,7 +3,7 @@
 This repository contains the code, queries, and eBook included as part of the MustLearnKQL series. The series is a continuing effort to discuss and educate about the power and simplicity of the Kusto Query Language.<br><br>
 The eBook (PDF) is updated whenever changes are made or new parts of the series are released. Get the book: https://cda.ms/3mT
 <br><br>
-Love the series so much you want a coffee mug? There's now a <b>merch store</b> where all proceeds go to <a href="https://cda.ms/3vg" target="_blank">St. Jude Children's Research Hospital.</a> Check it out! <b><a href="https://cda.ms/3vg" target="_blank">MUST LEARN KQL STORE</a></b>
+Love the series so much you want a coffee mug? There's now a <b>merch store</b> where all proceeds go to <a href="https://cda.ms/3vg" target="_blank">St. Jude Children's Research Hospital.</a> Check it out! <b><a href="https://cda.ms/3Dy" target="_blank">MUST LEARN KQL STORE</a></b>
 <br><br>
 The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 <br><br>
