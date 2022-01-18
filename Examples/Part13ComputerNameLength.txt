@@ -1,0 +1,4 @@
+//Part 13 of the Must Learn KQL series using the Extend operator.
+
+SecurityEvent //the table
+| extend ComputerNameLength = strlen(Computer) //creates a new column called ComputerNameLength of the calculation of the number of characters of the computer name in the Computer column
