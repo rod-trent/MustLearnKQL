@@ -1,0 +1,8 @@
+//Part13 from the Must Learn KQL series on Extend. 
+
+find where TimeGenerated > ago(1d) project _BilledSize, _IsBillable, Computer, _ResourceId
+| where _isBillable=true and isnotempty(Computer) 
+| summarize billedData = sumif(_BilledSize, _IsBillable=~true),
+            freeData   = sumif(_BilledSize, _IsBillable=~false) by Computer 
+| extend Total_Data = billedData + freeData            
+| order by billedData desc
