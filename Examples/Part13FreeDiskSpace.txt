@@ -1,0 +1,7 @@
+//From Part 13 of the Must Learn KQL series on the Extend operator
+
+Perf //table name
+| where CounterName == "Free Megabytes" //filtering data by 'free megabytes'
+| extend FreeKB = CounterValue * 1024 //calculating free kilobytes
+| extend FreeGB = CounterValue / 1024 //calculating free gigabytes
+| extend FreeMB = CounterValue //calculating free megabytes
