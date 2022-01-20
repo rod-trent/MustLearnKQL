@@ -1,0 +1,5 @@
+//From the Must Learn KQL series Part 14, talking about the Project operator.
+
+Perf //table name
+| where CounterName == "Free Megabytes" //filtering data by 'free megabytes'
+| project Computer, CounterName, FreeGB=CounterValue / 1024, FreeMB = CounterValue, FreeKB = CounterValue * 1024 //only show these columns
