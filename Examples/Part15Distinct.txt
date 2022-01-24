@@ -1,0 +1,10 @@
+//From Part 15 of the Must Learn KQL series talking about the Distinct operator.
+
+Perf //the table
+| distinct Computer //show each computer (hostname) stored in the table
+
+Perf //the table
+| distinct ObjectName //show each ObjectName stored in the table
+
+Perf //the table
+| distinct ObjectName, CounterName //showing the distinct values for two data columns
