@@ -13,7 +13,7 @@ UpdateSummary //the table
 | distinct Computer, WindowsUpdateSetting //We can get our Windows Update Settings for all servers we’re managing with the Update Management solution
 
 UpdateSummary //the table
-| distinct Computer, WindowsUpdateSetting, OSVersion, OldestMissingSecurityUpdateInDays //However, we’re not limited to just one or two fields. We can add more, in this example we’ll get our servers, their update setting, OS version and the oldest update they need in days
+| distinct Computer, WindowsUpdateSetting, OsVersion, OldestMissingSecurityUpdateInDays //However, we’re not limited to just one or two fields. We can add more, in this example we’ll get our servers, their update setting, OS version and the oldest update they need in days
 
 Update //the table
 | where UpdateState == "Needed" //retrieve only those systems where updates are needed
