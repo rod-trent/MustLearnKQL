@@ -24,8 +24,8 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3B9" target="_blank">Must Learn KQL Part 12: The Render Operator (with Bin and Time)</a> - <i>Posted January 10, 2022</i><br>
 * <a href="https://cda.ms/3Dz" target="_blank">Must Learn KQL Part 13: The Extend Operator</a> - <i>Posted January 18, 2022</i><br>
 * <a href="https://cda.ms/3G6" target="_blank">Must Learn KQL Part 14: The Project Operator</a> - <i>Posted January 20, 2022</i><br>
-* Must Learn KQL Part 15: The Distinct Operator <i>due the week of January 24, 2022</i><br>
-* Must Learn KQL Part 16: The Order/Sort and Top Operators<br>
+* <a href="https://cda.ms/3G6" target="_blank">Must Learn KQL Part 15: The Distinct Operator</a> - <i>Posted January 24, 2022</i><br>
+* Must Learn KQL Part 16: The Order/Sort and Top Operators  <i>due the week of January 24, 2022</i><br>
 * Must Learn KQL Part 17: The Let Statement<br>
 * Must Learn KQL Part 18: The Union Operator<br>
 * Must Learn KQL Part 19: The Join Operator<br>
