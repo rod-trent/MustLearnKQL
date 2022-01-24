@@ -1,0 +1,4 @@
+//From Part 15 of the Must Learn KQL series on the Distinct operator
+
+SecurityEvent //the table
+| distinct Computer //show distinct computer names
