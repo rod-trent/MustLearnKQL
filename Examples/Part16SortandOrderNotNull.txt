@@ -1,0 +1,6 @@
+//From the Must Learn KQL series Part 16 talking about Sort/Order, but with the isnotNull to eliminate displaying empty records
+
+SecurityEvent //the table
+| where TimeGenerated > ago(7d)  and isnotnull(Account) //look at data in the last 7 days where the Account column isn't empty
+| order by TimeGenerated desc //sort or order the TimeGenerated data column in descending order
+| limit 100 //show 100 random records
