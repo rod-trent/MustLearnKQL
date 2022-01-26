@@ -1,0 +1,4 @@
+//From the Must Learn KQL series Part 16, talking about the Top operator
+
+SecurityEvent //the table
+| top 100 by TimeGenerated desc //Retrieving the top 100 records sorted in descending order by TimeGenerated
