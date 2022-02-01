@@ -28,8 +28,8 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3G6" target="_blank">Must Learn KQL Part 14: The Project Operator</a> - <i>Posted January 20, 2022</i><br>
 * <a href="https://cda.ms/3Hn" target="_blank">Must Learn KQL Part 15: The Distinct Operator</a> - <i>Posted January 24, 2022</i><br>
 * <a href="https://cda.ms/3J8" target="_blank">Must Learn KQL Part 16: The Order/Sort and Top Operators</a> - <i>Posted January 26, 2022</i><br>
-* Must Learn KQL Part 17: The Let Statement <i>due the week of January 31, 2022</i><br>
-* Must Learn KQL Part 18: The Union Operator<br>
+* <a href="https://cda.ms/3LM" target="_blank">Must Learn KQL Part 17: The Let Statement</a> - <i>Posted February 1, 2022</i><br> 
+* Must Learn KQL Part 18: The Union Operator <i>due the week of January 31, 2022</i><br>
 * Must Learn KQL Part 19: The Join Operator<br>
 * Must Learn KQL Part 20: Parsing Unruly Data<br>
 * Must Learn KQL Part 21: Building your first Microsoft Sentinel Analytics Rule<br>
