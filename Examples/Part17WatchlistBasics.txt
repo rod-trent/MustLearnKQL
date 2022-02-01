@@ -1,0 +1,26 @@
+////From Must Learn KQL series Part 17 on the Let statement. Watchlist variable basics.
+
+//Watchlist as a variable, where the requested data is in the list
+let watchlist = (_GetWatchlist('FeodoTracker') | project DstIP);
+Heartbeat
+| where ComputerIP in (watchlist)
+
+//Watchlist as a variable, where the requested data is not in the list
+let watchlist = (_GetWatchlist('FeodoTracker') | project DstIP);
+Heartbeat
+| where ComputerIP !in (watchlist)
+
+
+//Watchlist inline with the query, where the requested data is in the list
+Heartbeat
+| where ComputerIP in ( 
+    (_GetWatchlist('FeodoTracker')
+    | project DstIP)
+)
+
+//Watchlist inline with the query, where the requested data is not in the list
+Heartbeat
+| where ComputerIP !in ( 
+    (_GetWatchlist('FeodoTracker')
+    | project DstIP)
+)
