@@ -1,0 +1,13 @@
+//From Must Learn KQL series Part 17 on the Let statement. Creating Variables from Existing Data
+
+let login = SecurityEvent //Setting the login variable based on a full query
+| where TimeGenerated > ago(1h) //look at records in the last hour
+| where EventID == '4624' //setting the event ID to successful login
+| project Account, TargetLogonId, loginTime = TimeGenerated; //creating the full output, notice the semicolon to end the let statement
+let logout = SecurityEvent //Setting the logout variable based on a full query
+| where TimeGenerated > ago(1h) //look at records in the last hour
+| where EventID == '4634' //setting the event ID to successful logoff
+| project Account, TargetLogonId, logoutTime = TimeGenerated; //creating the full output, notice the semicolon to end the let statement
+login //Accessing the login output
+| join kind=leftouter logout on TargetLogonId //joining login output with logout output
+| project Account, loginTime, logoutTime //Showing login and logout times for each account
