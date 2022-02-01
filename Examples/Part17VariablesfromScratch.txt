@@ -1,0 +1,7 @@
+//From Must Learn KQL series Part 17 on the Let statement. Creating Variables from Scratch
+
+let timeOffset = 7d; //Setting the offset variable
+let discardEventId = 4688; //assigning new process as the event ID
+SecurityEvent //the table
+| where TimeGenerated > ago(timeOffset*2) and TimeGenerated < ago(timeOffset) //Setting a specific time range of between 7 and 14 days
+| where EventID != discardEventId //showing all events but 4688
