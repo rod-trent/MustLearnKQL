@@ -31,9 +31,6 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3LM" target="_blank">Must Learn KQL Part 17: The Let Statement</a> - <i>Posted February 1, 2022</i><br> 
 * Must Learn KQL Part 18: The Union Operator <i>due the week of February 7, 2022</i><br>
 * Must Learn KQL Part 19: The Join Operator<br>
-* Must Learn KQL Part 20: Parsing Unruly Data<br>
-* Must Learn KQL Part 21: Building your first Microsoft Sentinel Analytics Rule<br>
-* Must Learn KQL Part 22: Repeatable Repercussion (Functions)<br>
-* Must Learn KQL Part 23: Using KQL for Hunting Operations
+* Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule<br>
 <br><br>
 <p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerMissionSmall.png" alt="Must Learn KQL"></center></p>
