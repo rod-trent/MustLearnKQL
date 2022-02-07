@@ -8,3 +8,8 @@ SecurityEvent //the table
 SecurityEvent //the table
 | union Heartbeat, SecurityAlert //merging SecurityEvent table with the Heartbeat table and SecurityAlert
 | summarize count() by Computer //showing all computers from both tables and how many times they are referenced
+
+SecurityEvent //the table
+| union Sec* //merging together all tables beginning with 'Sec'
+| summarize count() by Computer //showing all computers from all tables and how many times they are referenced
+| sort by Computer asc //displaying Computer names in ascending order
