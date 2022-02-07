@@ -1,0 +1,10 @@
+//From Part 18 of the Must Learn KQL series talking about the Union operator
+
+SecurityEvent //the table
+| union Heartbeat //merging SecurityEvent table with the Heartbeat table
+| summarize count() by Computer //showing all computers from both tables and how many times they are referenced
+
+
+SecurityEvent //the table
+| union Heartbeat, SecurityAlert //merging SecurityEvent table with the Heartbeat table and SecurityAlert
+| summarize count() by Computer //showing all computers from both tables and how many times they are referenced
