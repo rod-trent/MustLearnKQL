@@ -9,6 +9,8 @@ Love the series so much you want a coffee mug? There's now a <b>merch store</b> 
 <br><br>
 The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 <br><br>
+Looking for Advanced topics? Check out the Addicted to KQL series: http://aka.ms/Addicted2KQL
+<br><br>
 <b><h2>Table of Contents</h2></b>
 The following are links to the entire series so far:
 <br><br>
