@@ -1,0 +1,12 @@
+//From Part 20 of the Must Learn KQL series talking about Analytics Rules and incorporating Watchlists
+
+
+let watchlist = (_GetWatchlist('TrustedUsers') | project Username); //Putting the Usernames from our Watchlist into memory to use later
+AzureActivity //the table - this is where Cloud Shell activity is logged
+| where ResourceGroup startswith "CLOUD-SHELL" //filtering for Cloud Shell
+| where ResourceProviderValue == "MICROSOFT.STORAGE" //To not mistake this for some other Cloud Shell operation, also filtering on MICROSOFT.STORAGE. Storage is created anytime Cloud Shell runs.
+| where ActivityStatusValue == "Start" //Making sure that the activity is the spawning of a new Cloud Shell instance
+| where Caller !in (watchlist) //filtering out our trusted users
+| summarize count() by TimeGenerated , ResourceGroup  , Caller , CallerIpAddress , ActivityStatusValue //Getting a count of how many times each individual has run Cloud Shell
+| extend AccountCustomEntity = Caller //Assigning the Caller column - name of person - to AccountCustomEntity - this is what is used for the User Entity in Microsoft Sentinel Incidents
+| extend IPCustomEntity = CallerIpAddress //Assigning the CallerIpAddress column - IP Address of user's system - to IPCustomEntity - this is what is used for the IP Entity in Microsoft Sentinel Incidents
