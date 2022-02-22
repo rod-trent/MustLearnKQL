@@ -35,4 +35,11 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3Rj" target="_blank">Must Learn KQL Part 19: The Join Operator</a> - <i>Posted February 14, 2022</i><br> 
 * <a href="https://cda.ms/3SF" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i><br>
 <br><br>
+Did you complete the entire series?!! Well, congratulations! When you're ready, take the assessment and receive a bona fide certificate!
+<br><br>
+The assessment is 25 questions taken directly from the Must Learn KQL series. So, you can take advantage of the open book test, or challenge yourself by attempting to pass without help. Based on the honor system, you can miss 5 questions (80%). Once completed, send an email request to MustLearnKQL@sixmilliondollarman.onmicrosoft.com and request your certificate.
+<br><br>
+Take the assessment: <b><a href="https://forms.office.com/r/6MN69VXLUq" target="_blank">Must Learn KQL Assessment</a></b>
+<br><br>
+<br><br>
 <p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerMissionSmall.png" alt="Must Learn KQL"></center></p>
