@@ -14,7 +14,7 @@ Looking for Advanced topics? Check out the <b>Addicted to KQL</b> series: http:/
 <b><h2>Table of Contents</h2></b>
 The following are links to the entire series so far:
 <br><br>
-* <a href="https://cda.ms/3fC" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> <i>Posted November 17, 2021</i><br>
+* <a href="https://cda.ms/41x" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> <i>Posted March 16, 2022</i><br>
 * <a href="https://cda.ms/3fD" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> <i>Posted November 18, 2021</i><br>
 * <a href="https://cda.ms/3fQ" target="_blank">Must Learn KQL Part 3: Workflow</a> <i>Posted November 19, 2021</i><br>
 * <a href="https://cda.ms/3gH" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> <i>Posted November 22, 2021</i><br>
