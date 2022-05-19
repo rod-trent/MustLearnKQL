@@ -7,7 +7,7 @@ Want a paperback version of the book? You can order a copy from Amazon.com: http
 <br><br>
 There's a YouTube channel for the Must Learn KQL series. My colleague, David Hall, is taking the series and producing follow-along videos: Follow that here: https://cda.ms/3Jx  
 <br><br>
-Love the series so much you want a coffee mug? There's now a <b>merch store</b> where all proceeds go to <a href="https://cda.ms/3vg" target="_blank">St. Jude Children's Research Hospital.</a> Check it out! <b><a href="https://cda.ms/3Dy" target="_blank">MUST LEARN KQL STORE</a></b>
+Love the series so much you want a coffee mug? There's now a <b>merch store</b> where all proceeds go to <a href="https://cda.ms/4jt" target="_blank">St. Jude Children's Research Hospital.</a> Check it out! <b><a href="https://cda.ms/3Dy" target="_blank">MUST LEARN KQL STORE</a></b>
 <br><br>
 The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 <br><br>
