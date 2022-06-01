@@ -1,4 +1,4 @@
-# Must Learn KQL - the blog series, the book, the video channel, the merch store<br>
+# Must Learn KQL - the blog series, the book, the video channel, the merch store, the workshop, and much more...<br>
 <p align="right"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/MustLearnKQLBannerSmallSmall.png" alt="Must Learn KQL"></center></p>
 This repository contains the code, queries, and eBook included as part of the MustLearnKQL series. The series is a continuing effort to discuss and educate about the power and simplicity of the Kusto Query Language.<br><br>
 The eBook (PDF) is updated whenever changes are made or new parts of the series are released. Get the book: https://cda.ms/3mT
