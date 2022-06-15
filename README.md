@@ -27,7 +27,7 @@ The following are links to the entire series so far:
 * <a href="https://cda.ms/3s7" target="_blank">Must Learn KQL Part 9: The Limit/Take Operators</a> - <i>Posted December 13, 2021</i> - <a href="https://youtu.be/CJT-cR1Lfzo" target="_blank">Video Edition</a><br>
 * <a href="https://cda.ms/3sM" target="_blank">Must Learn KQL Part 10: The Count Operator</a> - <i>Posted December 14, 2021</i> - <a href="https://youtu.be/Cc7CcTXok2s" target="_blank">Video Edition</a><br>
 * <a href="https://cda.ms/3yf" target="_blank">Must Learn KQL Part 11: The Summarize Operator</a> - <i>Posted January 5, 2022</i> - <a href="https://cda.ms/48H" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3B9" target="_blank">Must Learn KQL Part 12: The Render Operator (with Bin and Time)</a> - <i>Posted January 10, 2022</i><br>
+* <a href="https://cda.ms/3B9" target="_blank">Must Learn KQL Part 12: The Render Operator (with Bin and Time)</a> - <i>Posted January 10, 2022</i> - <a href="https://cda.ms/4sk" target="_blank">Video Edition</a><br>
 * <a href="https://cda.ms/3Dz" target="_blank">Must Learn KQL Part 13: The Extend Operator</a> - <i>Posted January 18, 2022</i><br>
 * <a href="https://cda.ms/3G6" target="_blank">Must Learn KQL Part 14: The Project Operator</a> - <i>Posted January 20, 2022</i><br>
 * <a href="https://cda.ms/3Hn" target="_blank">Must Learn KQL Part 15: The Distinct Operator</a> - <i>Posted January 24, 2022</i><br>
