@@ -16,26 +16,26 @@ Looking for Advanced topics? Check out the <b>Addicted to KQL</b> series: http:/
 <b><h2>Table of Contents</h2></b>
 The following are links to the entire series so far:
 <br><br>
-* <a href="https://cda.ms/41y" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> - <i>Posted November 17, 2021</i> - <a href="https://youtu.be/rcy2uSMLyqo" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3fD" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> - <i>Posted November 18, 2021</i><br>
-* <a href="https://cda.ms/3fQ" target="_blank">Must Learn KQL Part 3: Workflow</a> - <i>Posted November 19, 2021</i> - <a href="https://youtu.be/Ga9ZABXtYWM" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3gH" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> - <i>Posted November 22, 2021</i><br>
-* <a href="https://cda.ms/3jm" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a> - <i>Posted November 29, 2021</i> - <a href="https://youtu.be/uugHEu4v0bw" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3mc" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> - <i>Posted December 2, 2021, Updated May 13, 2022</i> - <a href="https://youtu.be/h18G8s1biXA" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3pm" target="_blank">Must Learn KQL Part 7: Schema Talk</a> - <i>Posted December 7, 2021</i> - <a href="https://youtu.be/VdjVv63n3Vc" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3qj" target="_blank">Must Learn KQL Part 8: The Where Operator</a> - <i>Posted December 8, 2021</i> - <a href="https://youtu.be/dBmCNXgpjWM" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3s7" target="_blank">Must Learn KQL Part 9: The Limit/Take Operators</a> - <i>Posted December 13, 2021</i> - <a href="https://youtu.be/CJT-cR1Lfzo" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3sM" target="_blank">Must Learn KQL Part 10: The Count Operator</a> - <i>Posted December 14, 2021</i> - <a href="https://youtu.be/Cc7CcTXok2s" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3yf" target="_blank">Must Learn KQL Part 11: The Summarize Operator</a> - <i>Posted January 5, 2022</i> - <a href="https://cda.ms/48H" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3B9" target="_blank">Must Learn KQL Part 12: The Render Operator (with Bin and Time)</a> - <i>Posted January 10, 2022</i> - <a href="https://cda.ms/4sk" target="_blank">Video Edition</a><br>
-* <a href="https://cda.ms/3Dz" target="_blank">Must Learn KQL Part 13: The Extend Operator</a> - <i>Posted January 18, 2022</i><br>
-* <a href="https://cda.ms/3G6" target="_blank">Must Learn KQL Part 14: The Project Operator</a> - <i>Posted January 20, 2022</i><br>
-* <a href="https://cda.ms/3Hn" target="_blank">Must Learn KQL Part 15: The Distinct Operator</a> - <i>Posted January 24, 2022</i><br>
-* <a href="https://cda.ms/3J8" target="_blank">Must Learn KQL Part 16: The Order/Sort and Top Operators</a> - <i>Posted January 26, 2022</i><br>
-* <a href="https://cda.ms/3LM" target="_blank">Must Learn KQL Part 17: The Let Statement</a> - <i>Posted February 1, 2022</i><br> 
-* <a href="https://cda.ms/3NX" target="_blank">Must Learn KQL Part 18: The Union Operator</a> - <i>Posted February 7, 2022</i><br> 
-* <a href="https://cda.ms/3Rj" target="_blank">Must Learn KQL Part 19: The Join Operator</a> - <i>Posted February 14, 2022</i><br> 
-* <a href="https://cda.ms/3SF" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i><br>
+* <a href="https://azurecloudai.blog/2021/11/17/must-learn-kql-part-1-tools-and-resources/" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> - <i>Posted November 17, 2021</i> - <a href="https://youtu.be/rcy2uSMLyqo" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/11/18/must-learn-kql-part-2-just-above-sea-level/" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> - <i>Posted November 18, 2021</i><br>
+* <a href="https://azurecloudai.blog/2021/11/19/must-learn-kql-part-3-workflow/" target="_blank">Must Learn KQL Part 3: Workflow</a> - <i>Posted November 19, 2021</i> - <a href="https://youtu.be/Ga9ZABXtYWM" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/11/22/must-learn-kql-part-4-search-for-fun-and-profit/" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> - <i>Posted November 22, 2021</i><br>
+* <a href="https://azurecloudai.blog/2021/11/29/must-learn-kql-part-5-turn-search-into-workflow/" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a> - <i>Posted November 29, 2021</i> - <a href="https://youtu.be/uugHEu4v0bw" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/02/must-learn-kql-part-6-interface-intimacy/" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> - <i>Posted December 2, 2021, Updated May 13, 2022</i> - <a href="https://youtu.be/h18G8s1biXA" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/07/must-learn-kql-part-7-schema-talk/" target="_blank">Must Learn KQL Part 7: Schema Talk</a> - <i>Posted December 7, 2021</i> - <a href="https://youtu.be/VdjVv63n3Vc" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/08/must-learn-kql-part-8-the-where-operator/" target="_blank">Must Learn KQL Part 8: The Where Operator</a> - <i>Posted December 8, 2021</i> - <a href="https://youtu.be/dBmCNXgpjWM" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/13/must-learn-kql-part-9-the-limit-and-take-operators/" target="_blank">Must Learn KQL Part 9: The Limit/Take Operators</a> - <i>Posted December 13, 2021</i> - <a href="https://youtu.be/CJT-cR1Lfzo" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/14/must-learn-kql-part-10-the-count-operator/" target="_blank">Must Learn KQL Part 10: The Count Operator</a> - <i>Posted December 14, 2021</i> - <a href="https://youtu.be/Cc7CcTXok2s" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/05/must-learn-kql-part-11-the-summarize-operator/" target="_blank">Must Learn KQL Part 11: The Summarize Operator</a> - <i>Posted January 5, 2022</i> - <a href="https://cda.ms/48H" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/10/must-learn-kql-part-12-the-render-operator/" target="_blank">Must Learn KQL Part 12: The Render Operator (with Bin and Time)</a> - <i>Posted January 10, 2022</i> - <a href="https://cda.ms/4sk" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/18/must-learn-kql-part-13-the-extend-operator/" target="_blank">Must Learn KQL Part 13: The Extend Operator</a> - <i>Posted January 18, 2022</i><br>
+* <a href="https://azurecloudai.blog/2022/01/20/must-learn-kql-part-14-the-project-operator/" target="_blank">Must Learn KQL Part 14: The Project Operator</a> - <i>Posted January 20, 2022</i><br>
+* <a href="https://azurecloudai.blog/2022/01/24/must-learn-kql-part-15-the-distinct-operator/" target="_blank">Must Learn KQL Part 15: The Distinct Operator</a> - <i>Posted January 24, 2022</i><br>
+* <a href="https://azurecloudai.blog/2022/01/26/must-learn-kql-part-16-the-order-sort-and-top-operators/" target="_blank">Must Learn KQL Part 16: The Order/Sort and Top Operators</a> - <i>Posted January 26, 2022</i><br>
+* <a href="https://azurecloudai.blog/2022/02/01/must-learn-kql-part-17-the-let-statement/" target="_blank">Must Learn KQL Part 17: The Let Statement</a> - <i>Posted February 1, 2022</i><br> 
+* <a href="https://azurecloudai.blog/2022/02/07/must-learn-kql-part-18-the-union-operator/" target="_blank">Must Learn KQL Part 18: The Union Operator</a> - <i>Posted February 7, 2022</i><br> 
+* <a href="https://azurecloudai.blog/2022/02/14/must-learn-kql-part-19-the-join-operator/" target="_blank">Must Learn KQL Part 19: The Join Operator</a> - <i>Posted February 14, 2022</i><br> 
+* <a href="https://azurecloudai.blog/2022/02/17/must-learn-kql-part-20-building-your-first-microsoft-sentinel-analytics-rule/" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i><br>
 <br><br>
 Did you complete the entire series?!! Well, congratulations! When you're ready, take the assessment and receive a bona fide certificate!
 <br><br>
