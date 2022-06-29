@@ -5,7 +5,7 @@ The eBook (PDF) is updated whenever changes are made or new parts of the series 
 <br><br>
 Want a paperback version of the book? You can order a copy from Amazon.com: https://amzn.to/39maJSX - (<i>as with the merch below, all profit goes directly to <a href="https://www.stjude.org/" target="_blank">St. Jude</a></i>)
 <br><br>
-There's a YouTube channel for the Must Learn KQL series. My colleague, David Hall, is taking the series and producing follow-along videos: Follow that here: https://cda.ms/3Jx  
+There's a YouTube channel for the Must Learn KQL series. My colleague, David Hall, is taking the series and producing follow-along videos: Follow that here: https://youtu.be/rcy2uSMLyqo  
 <br><br>
 Love the series so much you want a coffee mug? There's now a <b>merch store</b> where all proceeds go to <a href="https://www.stjude.org/" target="_blank">St. Jude Children's Research Hospital.</a> Check it out! <b><a href="https://must-learn-kql.creator-spring.com" target="_blank">MUST LEARN KQL STORE</a></b>
 <br><br>
