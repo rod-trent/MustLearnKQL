@@ -11,7 +11,7 @@ Love the series so much you want a coffee mug? There's now a <b>merch store</b> 
 <br><br>
 The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 <br><br>
-Must Learn KQL is always evolving and updating. Curious about what's new and exciting? Monitor the [What's New page](https://github.com/rod-trent/MustLearnKQL/blob/main/WhatsNew.md)
+Must Learn KQL is always evolving and updating. Curious about what's new and exciting? Monitor the <a href="https://github.com/rod-trent/MustLearnKQL/blob/main/WhatsNew.md" target="_blank">What's New page</a>
 <br><br>
 Looking for Advanced topics? Check out the <b>Addicted to KQL</b> series: http://aka.ms/Addicted2KQL
 <br><br>
