@@ -37,7 +37,7 @@ The following are links to the entire series so far:
 * <a href="https://azurecloudai.blog/2022/02/01/must-learn-kql-part-17-the-let-statement/" target="_blank">Must Learn KQL Part 17: The Let Statement</a> - <i>Posted February 1, 2022</i> - <a href="https://youtu.be/P9AJZ-f1MNA" target="_blank">Video Edition</a><br>
 * <a href="https://azurecloudai.blog/2022/02/07/must-learn-kql-part-18-the-union-operator/" target="_blank">Must Learn KQL Part 18: The Union Operator</a> - <i>Posted February 7, 2022</i> - <a href="https://youtu.be/kZCFiK5o58w" target="_blank">Video Edition</a><br> 
 * <a href="https://azurecloudai.blog/2022/02/14/must-learn-kql-part-19-the-join-operator/" target="_blank">Must Learn KQL Part 19: The Join Operator</a> - <i>Posted February 14, 2022</i> - <a href="https://youtu.be/kZCFiK5o58w" target="_blank">Video Edition</a><br> 
-* <a href="https://azurecloudai.blog/2022/02/17/must-learn-kql-part-20-building-your-first-microsoft-sentinel-analytics-rule/" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i><br>
+* <a href="https://azurecloudai.blog/2022/02/17/must-learn-kql-part-20-building-your-first-microsoft-sentinel-analytics-rule/" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i> - <a href="https://youtu.be/cu-xw2_77qo" target="_blank">Video Edition</a><br>
 <br><br>
 Did you complete the entire series?!! Well, congratulations! When you're ready, take the assessment and receive a bona fide certificate!
 <br><br>
