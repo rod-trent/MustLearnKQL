@@ -20,7 +20,7 @@ The following are links to the entire series so far:
 <br><br>
 * <a href="https://rodtrent.substack.com/p/must-learn-kql-part-1-tools-and-resources" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> - <i>Posted November 17, 2021</i> - <a href="https://youtu.be/rcy2uSMLyqo" target="_blank">Video Edition</a><br>
 * <a href="https://rodtrent.substack.com/p/must-learn-kql-part-2-just-above" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> - <i>Posted November 18, 2021</i><br>
-* <a href="https://azurecloudai.blog/2021/11/19/must-learn-kql-part-3-workflow/" target="_blank">Must Learn KQL Part 3: Workflow</a> - <i>Posted November 19, 2021</i> - <a href="https://youtu.be/Ga9ZABXtYWM" target="_blank">Video Edition</a><br>
+* <a href="https://rodtrent.substack.com/p/must-learn-kql-part-3-workflow" target="_blank">Must Learn KQL Part 3: Workflow</a> - <i>Posted November 19, 2021</i> - <a href="https://youtu.be/Ga9ZABXtYWM" target="_blank">Video Edition</a><br>
 * <a href="https://azurecloudai.blog/2021/11/22/must-learn-kql-part-4-search-for-fun-and-profit/" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> - <i>Posted November 22, 2021</i><br>
 * <a href="https://azurecloudai.blog/2021/11/29/must-learn-kql-part-5-turn-search-into-workflow/" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a> - <i>Posted November 29, 2021</i> - <a href="https://youtu.be/uugHEu4v0bw" target="_blank">Video Edition</a><br>
 * <a href="https://azurecloudai.blog/2021/12/02/must-learn-kql-part-6-interface-intimacy/" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> - <i>Posted December 2, 2021, Updated May 13, 2022</i> - <a href="https://youtu.be/h18G8s1biXA" target="_blank">Video Edition</a><br>
