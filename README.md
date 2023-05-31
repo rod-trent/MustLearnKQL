@@ -18,7 +18,7 @@ Looking for Advanced topics? Check out the <b>Addicted to KQL</b> series: http:/
 <b><h2>Table of Contents</h2></b>
 The following are links to the entire series so far:
 <br><br>
-* <a href="https://azurecloudai.blog/2021/11/17/must-learn-kql-part-1-tools-and-resources/" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> - <i>Posted November 17, 2021</i> - <a href="https://youtu.be/rcy2uSMLyqo" target="_blank">Video Edition</a><br>
+* <a href="https://rodtrent.substack.com/p/must-learn-kql-part-1-tools-and-resources" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> - <i>Posted November 17, 2021</i> - <a href="https://youtu.be/rcy2uSMLyqo" target="_blank">Video Edition</a><br>
 * <a href="https://azurecloudai.blog/2021/11/18/must-learn-kql-part-2-just-above-sea-level/" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> - <i>Posted November 18, 2021</i><br>
 * <a href="https://azurecloudai.blog/2021/11/19/must-learn-kql-part-3-workflow/" target="_blank">Must Learn KQL Part 3: Workflow</a> - <i>Posted November 19, 2021</i> - <a href="https://youtu.be/Ga9ZABXtYWM" target="_blank">Video Edition</a><br>
 * <a href="https://azurecloudai.blog/2021/11/22/must-learn-kql-part-4-search-for-fun-and-profit/" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> - <i>Posted November 22, 2021</i><br>
