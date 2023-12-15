@@ -13,7 +13,7 @@ The series has it's own shortlink. To return back here, just remember the easy U
 <br><br>
 Must Learn KQL is always evolving and updating. Curious about what's new and exciting? Monitor the <a href="https://github.com/rod-trent/MustLearnKQL/blob/main/WhatsNew.md" target="_blank">What's New page</a>
 <br><br>
-Looking for Advanced topics? Check out the <b>Addicted to KQL</b> series: http://aka.ms/Addicted2KQL
+Looking for Advanced topics and a fun way to learn them? Check out the <b>The KQL Mysteries</b> series: http://aka.ms/KQLMysteries
 <br><br>
 <b><h2>Table of Contents</h2></b>
 The following are links to the entire series so far:
