@@ -46,7 +46,7 @@ The assessment is 25 questions taken directly from the Must Learn KQL series. So
 Take the assessment: <b><a href="https://forms.office.com/r/6MN69VXLUq" target="_blank">Must Learn KQL Assessment</a></b> (https://aka.ms/PassMustLearnKQL)
 <br><br>
 <br><br>
-## March 12, 2024. Happy 10th birthday, KQL!
+# March 12, 2024. Happy 10th birthday, KQL!<br>
 <p align="center"><img src="https://github.com/rod-trent/MustLearnKQL/blob/main/Series_Images/kqlbdaysmall.jpeg" alt="Happy Birthday, KQL!"></center></p>
 <br><br>
 <br><br>
