@@ -38,6 +38,7 @@ The following are links to the entire series so far:
 * <a href="https://rodtrent.substack.com/p/must-learn-kql-part-18-the-union" target="_blank">Must Learn KQL Part 18: The Union Operator</a> - <i>Posted February 7, 2022</i> - <a href="https://youtu.be/kZCFiK5o58w" target="_blank">Video Edition</a><br> 
 * <a href="https://rodtrent.substack.com/p/must-learn-kql-part-19-the-join-operator" target="_blank">Must Learn KQL Part 19: The Join Operator</a> - <i>Posted February 14, 2022</i> - <a href="https://youtu.be/kZCFiK5o58w" target="_blank">Video Edition</a><br> 
 * <a href="https://rodtrent.substack.com/p/must-learn-kql-part-20-building-your" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i> - <a href="https://youtu.be/cu-xw2_77qo" target="_blank">Video Edition</a><br>
+* <a href="https://rodtrent.substack.com/p/must-learn-kql-part-20-building-your" target="_blank">Must Learn KQL Part 21: Maximizing Your Use of Kusto Query Language (KQL): Tips, Tricks, and Tools</a> - <i>Posted March 14, 2025</i> <br>
 <br><br>
 Did you complete the entire series?!! Well, congratulations! When you're ready, take the assessment and receive a bona fide certificate!
 <br><br>
