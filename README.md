@@ -9,7 +9,7 @@ There's a YouTube channel for the Must Learn KQL series. My colleague, David Hal
 <br><br>
 Love the series so much you want a coffee mug? There's now a <b>merch store</b> where all proceeds go to <a href="https://www.stjude.org/" target="_blank">St. Jude Children's Research Hospital.</a> Check it out! <b><a href="https://must-learn-kql.creator-spring.com" target="_blank">MUST LEARN STORE</a></b>
 <br><br>
-The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
+The series has its own shortlink. To return back here, just remember the easy URL:  https://aka.ms/MustLearnKQL
 <br><br>
 Must Learn KQL is always evolving and updating. Curious about what's new and exciting? Monitor the <a href="https://github.com/rod-trent/MustLearnKQL/blob/main/WhatsNew.md" target="_blank">What's New page</a>
 <br><br>
