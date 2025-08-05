@@ -1,6 +1,6 @@
 # Must Learn KQL workshop
 
-The PowerPoint deck available for download from here has gone through a 6-month private preview program that saw delivery to over 200 attendees. This is the culmination of the Must Learn KQL learning series, but in an easy to deliver workshop format. If you find it of use and deliver as a workshop on your own, please help by filling out the following form so I can keep track.
+The PowerPoint deck available for [https://github.com/rod-trent/MustLearnKQL/blob/main/Workshop/Must%20Learn%20KQL%20-%20Workshop.pptx](download from here) has gone through a 6-month private preview program that saw delivery to over 200 attendees. This is the culmination of the Must Learn KQL learning series, but in an easy to deliver workshop format. If you find it of use and deliver as a workshop on your own, please help by filling out the following form so I can keep track.
 
 https://forms.office.com/r/jy3SX5TSRf
 
