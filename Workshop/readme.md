@@ -8,7 +8,7 @@ https://forms.office.com/r/jy3SX5TSRf
 
 The following represents additional material that you can use to incoporate into your own workshops for delivery to your customers and your organizations. Part of the <i>Advanced Must Learn KQL</i> series, each post highlights specific advanced operators and plugins and contains its own dataset and instructions for using them. 
 
-Pick several and combined them. Or, like a Pokemon master - collect 'em all!
+Pick one. Pick several. Combine them. Or, like a Pokemon master - collect 'em all!
 
 -   [KQL Game Show: Query or Bust!](https://rodtrent.substack.com/p/kql-game-show-query-or-bust)
 -   [KQL Band Tour: Rocking the Data Stage](https://rodtrent.substack.com/p/kql-band-tour-rocking-the-data-stage)
