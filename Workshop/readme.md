@@ -31,4 +31,5 @@ Pick one. Pick several. Combine them. Or, like a Pokemon master - collect 'em al
 -   [KQL vs. the Zombie Apocalypse: Surviving with Data Queries](https://rodtrent.substack.com/p/kql-vs-the-zombie-apocalypse-surviving)
 -   [KQL in Pop Culture: Querying Your Favorite Fictional Worlds](https://rodtrent.substack.com/p/kql-in-pop-culture-querying-your)
 -   [KQL Treasure Hunt: Solve a Data Mystery with Queries](https://rodtrent.substack.com/p/kql-treasure-hunt-solve-a-data-mystery)
+-   [KQL Game Night: Data Board Game](https://rodtrent.substack.com/p/kql-game-night-data-board-game)
 
