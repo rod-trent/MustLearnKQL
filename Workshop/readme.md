@@ -1,4 +1,4 @@
-# Must Learn KQL workshop
+<img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/73175542-7893-4aa6-bfa6-95f397697968" /># Must Learn KQL workshop
 
 The PowerPoint deck available for [download from here](https://github.com/rod-trent/MustLearnKQL/blob/main/Workshop/Must%20Learn%20KQL%20-%20Workshop.pptx) has gone through a 6-month private preview program that saw delivery to over 200 attendees. This is the culmination of the Must Learn KQL learning series, but in an easy to deliver workshop format. If you find it of use and deliver as a workshop on your own, please help by filling out the following form so I can keep track.
 
@@ -38,4 +38,5 @@ Pick one. Pick several. Combine them. Or, like a Pokemon master - collect 'em al
 -   [KQL Sci-Fi Lab: Experimenting with Data](https://rodtrent.substack.com/p/kql-sci-fi-lab-experimenting-with)
 -   [KQL Time Machine: Querying History’s Data](https://rodtrent.substack.com/p/kql-time-machine-querying-historys)
 -   [KQL Quest: The Data Detective’s Adventure](https://rodtrent.substack.com/p/kql-quest-the-data-detectives-adventure)
+-   [KQL Spy Mission: Decoding the Data Conspiracy](https://rodtrent.substack.com/p/kql-spy-mission-decoding-the-data)
 
