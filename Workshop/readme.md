@@ -41,4 +41,5 @@ Pick one. Pick several. Combine them. Or, like a Pokemon master - collect 'em al
 -   [KQL Spy Mission: Decoding the Data Conspiracy](https://rodtrent.substack.com/p/kql-spy-mission-decoding-the-data)
 -   [KQL Circus Extravaganza: Juggling Data Acts](https://rodtrent.substack.com/p/kql-circus-extravaganza-juggling)
 -   [KQL Superhero Smackdown: Query vs. Chaos](https://rodtrent.substack.com/p/kql-superhero-smackdown-query-vs)
+-   [KQL Detective Agency: The Case of the Missing Data](https://rodtrent.substack.com/p/kql-detective-agency-the-case-of)
 
