@@ -36,4 +36,6 @@ Pick one. Pick several. Combine them. Or, like a Pokemon master - collect 'em al
 -   [KQL Fashion Show: Strutting the Data Runway](https://rodtrent.substack.com/p/kql-fashion-show-strutting-the-data)
 -   [KQL Sports League: Query for the Win](https://rodtrent.substack.com/p/kql-sports-league-query-for-the-win)
 -   [KQL Sci-Fi Lab: Experimenting with Data](https://rodtrent.substack.com/p/kql-sci-fi-lab-experimenting-with)
+-   [KQL Time Machine: Querying History’s Data](https://rodtrent.substack.com/p/kql-time-machine-querying-historys)
+-   [KQL Quest: The Data Detective’s Adventure](https://rodtrent.substack.com/p/kql-quest-the-data-detectives-adventure)
 
