@@ -10,6 +10,7 @@ The following represents additional material that you can use to incoporate into
 
 Pick one. Pick several. Combine them. Or, like a Pokemon master - collect 'em all!
 
+-   [Gamifying KQL: Build Your Own Query Challenge](https://rodtrent.substack.com/p/gamifying-kql-build-your-own-query)
 -   [KQL Game Show: Query or Bust!](https://rodtrent.substack.com/p/kql-game-show-query-or-bust)
 -   [KQL Band Tour: Rocking the Data Stage](https://rodtrent.substack.com/p/kql-band-tour-rocking-the-data-stage)
 -   [KQL Wildlife Safari: Tracking Data Beasts](https://rodtrent.substack.com/p/kql-wildlife-safari-tracking-data)
