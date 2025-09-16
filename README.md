@@ -42,7 +42,7 @@ The following are links to the entire series so far:
 <br><br>
 Did you complete the entire series?!! Well, congratulations! When you're ready, take the assessment and receive a bona fide certificate!
 <br><br>
-The assessment is 25 questions taken directly from the Must Learn KQL series. So, you can take advantage of the open book test, or challenge yourself by attempting to pass without help. Based on the honor system, you can miss 5 questions (80%). Once completed, send an email request to <b>MustLearnKQL@sixmilliondollarman.onmicrosoft.com</b> and request your certificate.
+The assessment is 25 questions taken directly from the Must Learn KQL series. So, you can take advantage of the open book test, or challenge yourself by attempting to pass without help. Based on the honor system, you can miss 5 questions (80%). Once completed, send an email request to <b>MustLearnKQL@gmail.com</b> and request your certificate.
 <br><br>
 Take the assessment: <b><a href="https://forms.office.com/r/6MN69VXLUq" target="_blank">Must Learn KQL Assessment</a></b> (https://aka.ms/PassMustLearnKQL)
 <br><br>
