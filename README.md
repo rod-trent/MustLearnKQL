@@ -15,6 +15,8 @@ Must Learn KQL is always evolving and updating. Curious about what's new and exc
 <br><br>
 Looking for Advanced topics and a fun way to learn them? Check out the <b>The KQL Mysteries</b> series: http://aka.ms/KQLMysteries
 <br><br>
+Ready to take your KQL skills to the next level? Grab the Advanced Must Learn KQL book: https://github.com/rod-trent/MustLearnKQL/blob/main/Book_Version/Advanced%20Must%20Learn%20KQL%20Book.pdf 
+<br><br>
 <b><h2>Table of Contents</h2></b>
 The following are links to the entire series so far:
 <br><br>
