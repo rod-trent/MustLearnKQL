@@ -12,12 +12,12 @@ datatable(ID: int, Tags: dynamic)
 ```
 ---
 
-```
+
 ```kql
 // Sample KQL query
 StormEvents
 | where EventType == "Tornado"
 | summarize Count = count() by State
 | order by Count desc
-```
+
 
