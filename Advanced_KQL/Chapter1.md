@@ -1,4 +1,4 @@
-KQL Queries from Chapter 1 of the [Advanced Must Learn KQL](https://amzn.to/4ocNTON) book.
+KQL Queries from the [Advanced Must Learn KQL](https://amzn.to/4ocNTON) book.
 <br><br>
 ```
 datatable(ID: int, Tags: dynamic)
