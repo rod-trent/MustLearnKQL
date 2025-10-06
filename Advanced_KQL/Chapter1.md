@@ -1,6 +1,7 @@
 KQL Queries from the [Advanced Must Learn KQL](https://amzn.to/4ocNTON) book.
 <br><br>
 ```
+'''kql
 datatable(ID: int, Tags: dynamic)
 [
     1, dynamic(["Azure", "Cloud", "Data"]),
