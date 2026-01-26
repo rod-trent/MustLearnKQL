@@ -278,13 +278,12 @@ This project is created for educational purposes based on the "Must Learn KQL" s
 ## 👤 Author
 
 **Rod**
-- Substack: [Your Substack]
-- GitHub: [Your GitHub]
+- Substack: https://rodtrent.substack.com/ 
+- GitHub: https://github.com/rod-trent/ 
 
 ## 🙏 Acknowledgments
 
 - "Must Learn KQL" series by Rod Trent
-- Anthropic Claude for development assistance
 - Grok xAI for AI capabilities
 - Streamlit for the framework
 
