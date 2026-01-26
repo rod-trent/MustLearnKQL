@@ -117,9 +117,7 @@ Add any other context about the problem here.
 
 **Error Logs**
 ```
-Paste any relevant error messages here
-```
-```
+
 
 **Labels to Use:**
 - `bug` - Something isn't working
