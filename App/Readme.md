@@ -292,7 +292,8 @@ This project is created for educational purposes based on the "Must Learn KQL" s
 For questions or issues:
 1. Check the AI Tutor in the app
 2. Review the troubleshooting section
-3. Submit feedback through the app
+3. Submit a New issue here in this GitHub repo
+4. Submit feedback through the app
 
 ---
 
