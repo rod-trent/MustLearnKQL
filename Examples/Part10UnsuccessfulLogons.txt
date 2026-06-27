@@ -2,6 +2,6 @@
 
 SecurityEvent // The table
 | where TimeGenerated > ago(1h) // Activity in the last hour
-| where EventID == 4625 // Successful logon
+| where EventID == 4625 // Unsuccessful (failed) logon
 | where AccountType =~ "user" // case insensitive
-| count // Number of successful logons
+| count // Number of unsuccessful logons
