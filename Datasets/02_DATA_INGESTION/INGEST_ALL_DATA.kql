@@ -48,7 +48,7 @@ TimeGenerated,Computer,Account,AccountType,EventID,Activity,LogonType,IpAddress,
 // ----------------------------------------------------------------------------
 // SecurityEvent - Normal Logon Activity
 // ----------------------------------------------------------------------------
-.ingest inline into table SecurityEvent with (
+.ingest inline into table SecurityEvent with with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -78,7 +78,7 @@ TimeGenerated,Computer,Account,AccountType,EventID,Activity,LogonType,IpAddress,
 // ----------------------------------------------------------------------------
 // SecurityEvent - Privilege Escalation
 // ----------------------------------------------------------------------------
-.ingest inline into table SecurityEvent with (
+.ingest inline into table SecurityEvent with with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -101,7 +101,7 @@ TimeGenerated,Computer,Account,AccountType,EventID,Activity,PrivilegeList,Type
 // ----------------------------------------------------------------------------
 // SecurityEvent - Suspicious PowerShell
 // ----------------------------------------------------------------------------
-.ingest inline into table SecurityEvent with (
+.ingest inline into table SecurityEvent with with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -122,7 +122,7 @@ TimeGenerated,Computer,Account,EventID,Activity,NewProcessName,ParentProcessName
 // ----------------------------------------------------------------------------
 // Heartbeat - System Health Data
 // ----------------------------------------------------------------------------
-.ingest inline into table Heartbeat with (
+.ingest inline into table Heartbeat with with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -156,7 +156,7 @@ TimeGenerated,Computer,ComputerIP,OSType,OSMajorVersion,OSName,Version,Type
 // ----------------------------------------------------------------------------
 // Perf - Disk Space Trending
 // ----------------------------------------------------------------------------
-.ingest inline into table Perf with (
+.ingest inline into table Perf with with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -185,7 +185,7 @@ TimeGenerated,Computer,ObjectName,CounterName,InstanceName,CounterValue,Type
 // ----------------------------------------------------------------------------
 // Perf - Additional Disk and CPU Data
 // ----------------------------------------------------------------------------
-.ingest inline into table Perf with (
+.ingest inline into table Perf with with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -213,7 +213,7 @@ TimeGenerated,Computer,ObjectName,CounterName,InstanceName,CounterValue,Type
 // ----------------------------------------------------------------------------
 // OfficeActivity - Normal Email Activity
 // ----------------------------------------------------------------------------
-.ingest inline into table OfficeActivity (
+.ingest inline into table OfficeActivity with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -240,7 +240,7 @@ TimeGenerated,UserId,Operation,RecordType,ClientIP,Subject,RecipientCount,Type
 // ----------------------------------------------------------------------------
 // OfficeActivity - Phishing Campaign
 // ----------------------------------------------------------------------------
-.ingest inline into table OfficeActivity (
+.ingest inline into table OfficeActivity with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -264,7 +264,7 @@ TimeGenerated,UserId,Operation,RecordType,ClientIP,Subject,RecipientCount,Type
 // ----------------------------------------------------------------------------
 // DeviceFileEvents - Malware Execution Chain
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceFileEvents (
+.ingest inline into table DeviceFileEvents with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -287,7 +287,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,FileName,FolderPath,SHA256,Initiati
 // ----------------------------------------------------------------------------
 // DeviceFileEvents - Legitimate Activity
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceFileEvents (
+.ingest inline into table DeviceFileEvents with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -309,7 +309,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,FileName,FolderPath,SHA256,Initiati
 // ----------------------------------------------------------------------------
 // DeviceProcessEvents - Suspicious PowerShell
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceProcessEvents (
+.ingest inline into table DeviceProcessEvents with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -331,7 +331,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,FileName,ProcessCommandLine,Initiat
 // ----------------------------------------------------------------------------
 // DeviceProcessEvents - Credential Dumping
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceProcessEvents (
+.ingest inline into table DeviceProcessEvents with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -352,7 +352,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,FileName,ProcessCommandLine,Initiat
 // ----------------------------------------------------------------------------
 // DeviceNetworkEvents - C2 Communication Pattern
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceNetworkEvents (
+.ingest inline into table DeviceNetworkEvents with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -377,7 +377,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,RemoteIP,RemotePort,RemoteUrl,Initi
 // ----------------------------------------------------------------------------
 // DeviceNetworkEvents - Legitimate Connections
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceNetworkEvents  (
+.ingest inline into table DeviceNetworkEvents  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -399,7 +399,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,RemoteIP,RemotePort,RemoteUrl,Initi
 // ----------------------------------------------------------------------------
 // DeviceRegistryEvents - Persistence via Run Key
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceRegistryEvents  (
+.ingest inline into table DeviceRegistryEvents  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -421,7 +421,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,RegistryKey,RegistryValueName,Regis
 // ----------------------------------------------------------------------------
 // DeviceRegistryEvents - Legitimate Installation
 // ----------------------------------------------------------------------------
-.ingest inline into table DeviceRegistryEvents   (
+.ingest inline into table DeviceRegistryEvents   with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -442,7 +442,7 @@ TimeGenerated,DeviceId,DeviceName,ActionType,RegistryKey,RegistryValueName,Regis
 // ----------------------------------------------------------------------------
 // AzureActivity - Cloud Shell Usage (Part 8)
 // ----------------------------------------------------------------------------
-.ingest inline into table AzureActivity   (
+.ingest inline into table AzureActivity   with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -464,7 +464,7 @@ TimeGenerated,ResourceGroup,ResourceProviderValue,ActivityStatusValue,Caller,Cal
 // ----------------------------------------------------------------------------
 // SigninLogs - Impossible Travel Scenario
 // ----------------------------------------------------------------------------
-.ingest inline into table SigninLogs  (
+.ingest inline into table SigninLogs  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -485,7 +485,7 @@ TimeGenerated,UserPrincipalName,ResultType,IPAddress,Location,AppDisplayName,Typ
 // ----------------------------------------------------------------------------
 // SigninLogs - Failed Sign-ins (Brute Force)
 // ----------------------------------------------------------------------------
-.ingest inline into table SigninLogs  (
+.ingest inline into table SigninLogs  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -508,7 +508,7 @@ TimeGenerated,UserPrincipalName,ResultType,IPAddress,Location,AppDisplayName,Typ
 // ----------------------------------------------------------------------------
 // EmailEvents - Phishing Campaign
 // ----------------------------------------------------------------------------
-.ingest inline into table EmailEvents  (
+.ingest inline into table EmailEvents  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -533,7 +533,7 @@ TimeGenerated,NetworkMessageId,SenderFromAddress,RecipientEmailAddress,Subject,T
 // ----------------------------------------------------------------------------
 // EmailEvents - Legitimate Emails
 // ----------------------------------------------------------------------------
-.ingest inline into table EmailEvents  (
+.ingest inline into table EmailEvents  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -555,7 +555,7 @@ TimeGenerated,NetworkMessageId,SenderFromAddress,RecipientEmailAddress,Subject,T
 // ----------------------------------------------------------------------------
 // EmailUrlInfo - Phishing URLs
 // ----------------------------------------------------------------------------
-.ingest inline into table EmailUrlInfo  (
+.ingest inline into table EmailUrlInfo  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -575,7 +575,7 @@ TimeGenerated,UrlId,NetworkMessageId,Url,UrlDomain,ThreatTypes,Type
 // ----------------------------------------------------------------------------
 // EmailUrlInfo - Legitimate URLs
 // ----------------------------------------------------------------------------
-.ingest inline into table EmailUrlInfo   (
+.ingest inline into table EmailUrlInfo   with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -594,7 +594,7 @@ TimeGenerated,UrlId,NetworkMessageId,Url,UrlDomain,ThreatTypes,Type
 // ----------------------------------------------------------------------------
 // EmailAttachmentInfo - Malware Attachments
 // ----------------------------------------------------------------------------
-.ingest inline into table EmailAttachmentInfo  (
+.ingest inline into table EmailAttachmentInfo  with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -618,7 +618,7 @@ TimeGenerated,NetworkMessageId,SenderFromAddress,RecipientEmailAddress,FileName,
 // ----------------------------------------------------------------------------
 // EmailAttachmentInfo - Legitimate Attachments
 // ----------------------------------------------------------------------------
-.ingest inline into table EmailAttachmentInfo (
+.ingest inline into table EmailAttachmentInfo with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -641,7 +641,7 @@ TimeGenerated,NetworkMessageId,SenderFromAddress,RecipientEmailAddress,FileName,
 // ----------------------------------------------------------------------------
 // UpdateSummary - Patching Compliance
 // ----------------------------------------------------------------------------
-.ingest inline into table UpdateSummary (
+.ingest inline into table UpdateSummary with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -665,7 +665,7 @@ TimeGenerated,Computer,OldestMissingSecurityUpdateInDays,WindowsUpdateSetting,Cr
 // ----------------------------------------------------------------------------
 // Update - Specific KB Information
 // ----------------------------------------------------------------------------
-.ingest inline into table Update (
+.ingest inline into table Update with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -689,7 +689,7 @@ TimeGenerated,Computer,Title,KBID,Classification,UpdateState,PublishedDate,MSRCS
 // ----------------------------------------------------------------------------
 // SecurityAlert - Sample Alerts
 // ----------------------------------------------------------------------------
-.ingest inline into table SecurityAlert (
+.ingest inline into table SecurityAlert with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -714,7 +714,7 @@ TimeGenerated,AlertName,AlertSeverity,Description,ProviderName,CompromisedEntity
 // ----------------------------------------------------------------------------
 // Usage - Data Volume Visualization
 // ----------------------------------------------------------------------------
-.ingest inline into table Usage (
+.ingest inline into table Usage with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
