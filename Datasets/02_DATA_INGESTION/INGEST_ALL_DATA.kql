@@ -48,7 +48,7 @@ TimeGenerated,Computer,Account,AccountType,EventID,Activity,LogonType,IpAddress,
 // ----------------------------------------------------------------------------
 // SecurityEvent - Normal Logon Activity
 // ----------------------------------------------------------------------------
-.ingest inline into table SecurityEvent with with (
+.ingest inline into table SecurityEvent with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -78,7 +78,7 @@ TimeGenerated,Computer,Account,AccountType,EventID,Activity,LogonType,IpAddress,
 // ----------------------------------------------------------------------------
 // SecurityEvent - Privilege Escalation
 // ----------------------------------------------------------------------------
-.ingest inline into table SecurityEvent with with (
+.ingest inline into table SecurityEvent with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -101,7 +101,7 @@ TimeGenerated,Computer,Account,AccountType,EventID,Activity,PrivilegeList,Type
 // ----------------------------------------------------------------------------
 // SecurityEvent - Suspicious PowerShell
 // ----------------------------------------------------------------------------
-.ingest inline into table SecurityEvent with with (
+.ingest inline into table SecurityEvent with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -122,7 +122,7 @@ TimeGenerated,Computer,Account,EventID,Activity,NewProcessName,ParentProcessName
 // ----------------------------------------------------------------------------
 // Heartbeat - System Health Data
 // ----------------------------------------------------------------------------
-.ingest inline into table Heartbeat with with (
+.ingest inline into table Heartbeat with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -156,7 +156,7 @@ TimeGenerated,Computer,ComputerIP,OSType,OSMajorVersion,OSName,Version,Type
 // ----------------------------------------------------------------------------
 // Perf - Disk Space Trending
 // ----------------------------------------------------------------------------
-.ingest inline into table Perf with with (
+.ingest inline into table Perf with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
@@ -185,7 +185,7 @@ TimeGenerated,Computer,ObjectName,CounterName,InstanceName,CounterValue,Type
 // ----------------------------------------------------------------------------
 // Perf - Additional Disk and CPU Data
 // ----------------------------------------------------------------------------
-.ingest inline into table Perf with with (
+.ingest inline into table Perf with (
     format="csv",
     ignoreFirstRecord=true,
     ingestionMapping='['
