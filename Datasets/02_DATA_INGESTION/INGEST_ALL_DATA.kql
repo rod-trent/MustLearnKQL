@@ -68,6 +68,10 @@ TimeGenerated,Computer,Account,AccountType,EventID,Activity,LogonType,IpAddress,
 2024-01-15T09:00:00Z,WKS-WIN10-01,user1,User,4624,4624 - An account was successfully logged on,2,192.168.1.50,0x20001,SecurityEvent
 2024-01-15T09:00:00Z,WKS-WIN10-02,user2,User,4624,4624 - An account was successfully logged on,2,192.168.1.51,0x20002,SecurityEvent
 2024-01-15T09:00:00Z,SERVER01,SYSTEM,Machine,4624,4624 - An account was successfully logged on,3,192.168.1.10,0x20003,SecurityEvent
+2024-01-15T17:00:00Z,WKS-WIN10-01,user1,User,4634,4634 - An account was logged off,2,192.168.1.50,0x20001,SecurityEvent
+2024-01-16T09:00:00Z,WKS-WIN10-03,user3,User,4624,4624 - An account was successfully logged on,2,192.168.1.53,0x20004,SecurityEvent
+2024-01-16T09:00:00Z,WKS-WIN10-04,user4,User,4624,4624 - An account was successfully logged on,2,192.168.1.54,0x20005,SecurityEvent
+2024-01-16T09:00:00Z,DC01,SYSTEM,Machine,4624,4624 - An account was successfully logged on,3,192.168.1.5,0x20006,SecurityEvent
 2024-01-17T09:00:00Z,WKS-WIN10-01,user1,User,4624,4624 - An account was successfully logged on,2,192.168.1.50,0x20007,SecurityEvent
 2024-01-17T09:00:00Z,WKS-WIN10-02,user2,User,4624,4624 - An account was successfully logged on,2,192.168.1.51,0x20008,SecurityEvent
 2024-01-18T09:00:00Z,WKS-WIN10-01,user1,User,4624,4624 - An account was successfully logged on,2,192.168.1.50,0x20009,SecurityEvent
